@@ -1,0 +1,16 @@
+{
+  "name": "galeria-de-fotos-instagram",
+  "version": "1.0.0",
+  "description": "galeria de fotos similar a instagram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "instagram",
+    "gallery",
+    "photo"
+  ],
+  "author": "David Espinoza R",
+  "license": "MIT"
+}
